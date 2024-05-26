@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Canal Vem Fazer</h1>
+<h1 align="center">Retro luxxo</h1>
 <h1 align="center">Um sistema de tickets extremamente completo baseado em mensagens do WhatsApp.</h1> 
 
 
